@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Lang Translator</string>
+    <string name="no_internet_connection" > NO INTERNET CONNECTION </string>
+    <string name="hint_text">Tap to enter text</string>
+    <string name="start_new_translation">Text Translate</string>
+    <string name="API_KEY">trnsl.1.1.20170425T085917Z.580fec9ed721d387.9caf5bd2514ca1581b95de321974dce826ef5064</string>
+    <string name="new_translate">Translate</string>
+    <string name="about">About App</string>
+    <string name="process_tts">Switching Language</string>
+
+</resources>
